@@ -22,7 +22,7 @@ html, body {
     margin: 0;
 }
 .header {
-    height: 1159px;
+    height: 866px;
     background-size: cover;
     background-image: url("../img/banner@2x.png");
 }
@@ -33,18 +33,18 @@ html, body {
 }
 
 .header-btn > div {
-    margin: 50px;
+    margin: 45px 35px;
 }
 
 .sign-in > a {
     font-family: Roboto-Regular;
     font-size: 16px;
-    margin-right: 440px;
+    margin-right: 320px;
     border: 2px solid #73C650;
     text-decoration: none;
     color: #73C650;
     border-radius: 25px;
-    padding: 20px 30px;
+    padding: 10px 15px;
 }
 
 .sign-in > a:hover {
@@ -54,12 +54,13 @@ html, body {
 
 .about > a {
     font-family: Roboto-Regular;
+    font-size: 16px;
     text-decoration: none;
     color: black;
 }
 
 .header-logo {
-    margin: 200px 0 65px 0;
+    margin: 115px 0 65px 0;
     display: flex;
     justify-content: center;
 }
