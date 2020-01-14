@@ -117,7 +117,6 @@ html, body {
 }
 
 .content-today {
-    margin: 100px 0;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -251,7 +250,6 @@ html, body {
 }
 
 .content-members {
-    margin: 100px 0;
     height: 35.6em;
     align-items: center;
 
@@ -359,8 +357,8 @@ html, body {
 }
 
 .footer-block img {
-    width: 96px;
-    height: 29px;
+    width: 96pt;
+    height: 25pt;
 }
 
 .footer-block {
@@ -408,7 +406,7 @@ html, body {
 
 .check-box {
     margin: -20px 10px 0 0;
-    color: #37b330;
+    color: #8bc34a;
 }
 
 .ti-row {
